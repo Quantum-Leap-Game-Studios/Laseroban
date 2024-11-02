@@ -82,12 +82,12 @@
 
 ## Contributors
 
-- **Giabibi** - Lead Programmer & UI Designer - [GitHub Profile](https://github.com/Giabibi)
-- **Afilak** - Programmer & Game Designer - [GitHub Profile](https://github.com/Afilak)
+- **Giabibi** - Lead Programmer & Audio Designer & UI Designer - [GitHub Profile](https://github.com/Giabibi)
+- **Afilak**  - Programmer & Game Designer & Level Designer    - [GitHub Profile](https://github.com/Afilak)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under a Proprietary License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Edit
 
